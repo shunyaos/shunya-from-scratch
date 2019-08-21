@@ -23,4 +23,4 @@ ShunyaOS is a lightweight IOT and AI Operating system. It has a lot of cool feat
 
 1) If you want to build a customized version of ShunyaOs for Armv8, click [here](https://github.com/shunyaos/shunya-from-scratch/blob/master/docs/build-armv8-rfs.md)
 
-2) If you want to build a customized version of ShunyaOs for Armv8, click [here](https://github.com/shunyaos/shunya-from-scratch/blob/master/docs/build-armv7-rfs.md)
+2) If you want to build a customized version of ShunyaOs for Armv7, click [here](https://github.com/shunyaos/shunya-from-scratch/blob/master/docs/build-armv7-rfs.md)
